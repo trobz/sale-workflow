@@ -1,0 +1,3 @@
+odoo14-addon-sale-cutoff-time-delivery @ git+https://github.com/trobz/sale-workflow@14.0-mig-sale_cutoff_time_delivery#subdirectory=setup/sale_cutoff_time_delivery
+odoo14-addon-sale-partner-delivery-window @ git+https://github.com/trobz/sale-workflow@14.0-mig-sale_partner_delivery_window#subdirectory=setup/sale_partner_delivery_window
+
